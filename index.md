@@ -1,7 +1,7 @@
 ---
 title: Bio-plastics Europe
 layout: page
-feature_image: "https://imgur.com/ePmWtKR"
+feature_image: "https://imgur.com/ePmWtKR.png"
 feature_text: |
   
 ---
